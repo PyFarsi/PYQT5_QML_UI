@@ -23,12 +23,19 @@ Framework Modern UI PYQT5 QML Sample Modules By Javad
 
 ![Universal](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Universal.jpg)
 
+## How to update QML Resources
+
+1. change QML files.
+2. update **resources.qrc** file
+3. ``pyrcc5 resources.qrc -o resfile.py``
+4. import **resfile.py** into your main.py files
+
 ## Comilation Via Nuitka Command
 
 ``
 nuitka Material.py --show-progress --recurse-all --standalone --plugin-enable=qt-plugins --include-qt-plugins=all --windows-disable-console
 ``
 
-## PyFarsi Group 
+### PyFarsi Group 
 
 Group in Telegram: [PyFarsi](https://t.me/PyFarsi)

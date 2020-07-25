@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>UI/qml/main.qml</file>
+    <file>UI/qml/CellBox.qml</file>
+    <file>UI/qml/LargeChartView.qml</file>
+    <file>UI/qml/SideNavButton.qml</file>
+    <file>UI/images/baseline-category-24px.svg</file>
+    <file>UI/images/baseline-menu-24px.svg</file>
+    <file>UI/images/baseline-more_vert-24px.svg</file>
+</qresource>
+</RCC>

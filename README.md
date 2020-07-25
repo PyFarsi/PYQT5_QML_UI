@@ -3,23 +3,23 @@ Framework Modern UI PYQT5 QML Sample Modules By Javad
 
 ## Screenshot
 
-Material Design
+**Material Design**
 
 ![Material](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Material.jpg)
 
-Modern Design
+**Modern Design**
 
 ![Modern](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Modern.jpg)
 
-Fusion Design
+**Fusion Design**
 
 ![Fusion](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Fusion.jpg)
 
-Imagine Design
+**Imagine Design**
 
 ![Imagine](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Imagine.jpg)
 
-Universal Design
+**Universal Design**
 
 ![Universal](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Universal.jpg)
 

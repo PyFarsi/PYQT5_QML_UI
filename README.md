@@ -5,23 +5,23 @@ Framework Modern UI PYQT5 QML Sample Modules By Javad
 
 Material Design
 
-![Material](https://i.imgur.com/lwBOtnW.png)
+![Material](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Material.jpg)
 
 Modern Design
 
-![Modern](https://i.imgur.com/lwBOtnW.png)
+![Modern](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Modern.jpg)
 
 Fusion Design
 
-![Fusion](https://i.imgur.com/lwBOtnW.png)
+![Fusion](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Fusion.jpg)
 
 Imagine Design
 
-![Imagine](https://i.imgur.com/lwBOtnW.png)
+![Imagine](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Imagine.jpg)
 
 Universal Design
 
-![Universal](https://i.imgur.com/lwBOtnW.png)
+![Universal](https://raw.githubusercontent.com/PyFarsi/PYQT5_QML_UI/master/ScreenShot/Universal.jpg)
 
 ## Comilation Via Nuitka Command
 
